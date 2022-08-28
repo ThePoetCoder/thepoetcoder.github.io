@@ -1,0 +1,250 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>Hooked</title>
+        <link rel="stylesheet" type="text/css" href="/static/style.css" />
+    </head>
+    <body>
+        <table id="myTable">
+            <tr id="row_1">
+                <td id="main_td">
+                    <button
+                        id="main_button"
+                        class="cell"
+                        onclick="main_toggle()"
+                        type="button"
+                    >Uncheck All</button>
+                </td>
+                <td class="cell"
+                    id="outer_td_Verse">
+                    <button
+                        id="outer_btn_Verse"
+                        class="Verse Label"
+                        onclick="outer_toggle( 'Verse' )"
+                        type="button"
+                    >Verse</button>
+                </td>
+                <td class="cell"
+                    id="outer_td_Chorus">
+                    <button
+                        id="outer_btn_Chorus"
+                        class="Chorus Label"
+                        onclick="outer_toggle( 'Chorus' )"
+                        type="button"
+                    >Chorus</button>
+                </td>
+                <td class="cell"
+                    id="outer_td_Bridge">
+                    <button
+                        id="outer_btn_Bridge"
+                        class="Bridge Label"
+                        onclick="outer_toggle( 'Bridge' )"
+                        type="button"
+                    >Bridge</button>
+                </td>
+            </tr>
+
+            <tr id="row_2">
+                <td class="cell"
+                    id="outer_td_Clean.Rhythm">
+                        <audio id="Clean.Rhythm">
+                            <source src="/static/media/cr.mp3" type="audio/mpeg">
+                        </audio>
+                    <button
+                        id="outer_btn_Clean.Rhythm"
+                        class="Label CleanRhythm"
+                        onclick="outer_toggle( 'Clean.Rhythm' )"
+                        type="button"
+                    >Clean Rhythm</button>
+                </td>
+                <td class="cell"
+                    id="inner_td_Clean.Rhythm.Verse">
+                    <input
+                        id="Clean.Rhythm.Verse"
+                        class="Verse CleanRhythm CHK spade"
+                        value="Clean.Rhythm.Verse"
+                        onchange="inner_toggle( 'Clean.Rhythm.Verse' )"
+                        type="checkbox">
+                </td>
+                <td class="cell"
+                    id="inner_td_Clean.Rhythm.Chorus">
+                    <input
+                        id="Clean.Rhythm.Chorus"
+                        class="Chorus CleanRhythm CHK spade"
+                        value="Clean.Rhythm.Chorus"
+                        onchange="inner_toggle( 'Clean.Rhythm.Chorus' )"
+                        type="checkbox">
+                </td>
+                <td class="cell"
+                    id="inner_td_Clean.Rhythm.Bridge">
+                    <input
+                        id="Clean.Rhythm.Bridge"
+                        class="Bridge CleanRhythm CHK spade"
+                        value="Clean.Rhythm.Bridge"
+                        onchange="inner_toggle( 'Clean.Rhythm.Bridge' )"
+                        type="checkbox">
+                </td>
+            </tr>
+
+            <tr id="row_3">
+                <td class="cell"
+                    id="outer_td_Clean.Lead">
+                        <audio id="Clean.Lead">
+                            <source src="/static/media/cl.mp3" type="audio/mpeg">
+                        </audio>
+                    <button
+                        id="outer_btn_Clean.Lead"
+                        class="Label CleanLead"
+                        onclick="outer_toggle( 'Clean.Lead' )"
+                        type="button"
+                    >Clean Lead</button>
+                </td>
+                <td class="cell"
+                    id="inner_td_Clean.Lead.Verse">
+                    <input
+                        id="Clean.Lead.Verse"
+                        class="Verse CleanLead CHK clover"
+                        value="Clean.Lead.Verse"
+                        onchange="inner_toggle( 'Clean.Lead.Verse' )"
+                        type="checkbox">
+                </td>
+                <td class="cell"
+                    id="inner_td_Clean.Lead.Chorus">
+                    <input
+                        id="Clean.Lead.Chorus"
+                        class="Chorus CleanLead CHK clover"
+                        value="Clean.Lead.Chorus"
+                        onchange="inner_toggle( 'Clean.Lead.Chorus' )"
+                        type="checkbox">
+                </td>
+                <td class="cell"
+                    id="inner_td_Clean.Lead.Bridge">
+                    <input
+                        id="Clean.Lead.Bridge"
+                        class="Bridge CleanLead CHK clover"
+                        value="Clean.Lead.Bridge"
+                        onchange="inner_toggle( 'Clean.Lead.Bridge' )"
+                        type="checkbox">
+                </td>
+            </tr>
+
+            <tr id="row_4">
+                <td class="cell"
+                    id="outer_td_Distorted.Rhythm">
+                        <audio id="Distorted.Rhythm">
+                            <source src="/static/media/dr.mp3" type="audio/mpeg">
+                        </audio>
+                    <button
+                        id="outer_btn_Distorted.Rhythm"
+                        class="Label DistortedRhythm"
+                        onclick="outer_toggle( 'Distorted.Rhythm' )"
+                        type="button"
+                    >Distorted Rhythm</button>
+                </td>
+                <td class="cell"
+                    id="inner_td_Distorted.Rhythm.Verse">
+                    <input
+                        id="Distorted.Rhythm.Verse"
+                        class="Verse DistortedRhythm CHK diamond"
+                        value="Distorted.Rhythm.Verse"
+                        onchange="inner_toggle( 'Distorted.Rhythm.Verse' )"
+                        type="checkbox">
+                </td>
+                <td class="cell"
+                    id="inner_td_Distorted.Rhythm.Chorus">
+                    <input
+                        id="Distorted.Rhythm.Chorus"
+                        class="Chorus DistortedRhythm CHK diamond"
+                        value="Distorted.Rhythm.Chorus"
+                        onchange="inner_toggle( 'Distorted.Rhythm.Chorus' )"
+                        type="checkbox">
+                </td>
+                <td class="cell"
+                    id="inner_td_Distorted.Rhythm.Bridge">
+                    <input
+                        id="Distorted.Rhythm.Bridge"
+                        class="Bridge DistortedRhythm CHK diamond"
+                        value="Distorted.Rhythm.Bridge"
+                        onchange="inner_toggle( 'Distorted.Rhythm.Bridge' )"
+                        type="checkbox">
+                </td>
+            </tr>
+
+            <tr id="row_5">
+                <td class="cell"
+                    id="outer_td_Distorted.Lead">
+                        <audio id="Distorted.Lead">
+                            <source src="/static/media/dl.mp3" type="audio/mpeg">
+                        </audio>
+                    <button
+                        id="outer_btn_Distorted.Lead"
+                        class="Label DistortedLead"
+                        onclick="outer_toggle( 'Distorted.Lead' )"
+                        type="button"
+                    >Distorted Lead</button>
+                </td>
+                <td class="cell"
+                    id="inner_td_Distorted.Lead.Verse">
+                    <input
+                        id="Distorted.Lead.Verse"
+                        class="Verse DistortedLead CHK heart"
+                        value="Distorted.Lead.Verse"
+                        onchange="inner_toggle( 'Distorted.Lead.Verse' )"
+                        type="checkbox">
+                </td>
+                <td class="cell"
+                    id="inner_td_Distorted.Lead.Chorus">
+                    <input
+                        id="Distorted.Lead.Chorus"
+                        class="Chorus DistortedLead CHK heart"
+                        value="Distorted.Lead.Chorus"
+                        onchange="inner_toggle( 'Distorted.Lead.Chorus' )"
+                        type="checkbox">
+                </td>
+                <td class="cell"
+                    id="inner_td_Distorted.Lead.Bridge">
+                    <input
+                        id="Distorted.Lead.Bridge"
+                        class="Bridge DistortedLead CHK heart"
+                        value="Distorted.Lead.Bridge"
+                        onchange="inner_toggle( 'Distorted.Lead.Bridge' )"
+                        type="checkbox">
+                </td>
+            </tr>
+
+            <tr id="row_6">
+                <td id="progressCell" colspan="4">
+                    <div id="myProgress">
+                        <div id="myBar"></div>
+                    </div>
+                </td>
+            </tr>
+
+            <tr id="row_7">
+                <td><div class="panelbuttons"><button
+                    id="play_button"
+                    onclick="play_all()"
+                    type="button"
+                >Play</button></div></td>
+                <td><div class="panelbuttons"><button
+                    id="pause_button"
+                    onclick="pause_all()"
+                    type="button"
+                >Pause</button></div></td>
+                <td><div class="panelbuttons"><button
+                    id="start_over_button"
+                    onclick="start_over()"
+                    type="button"
+                >Start Over</button></div></td>
+                <td><div class="panelbuttons"><button
+                    id="stop_button"
+                    onclick="stop_all()"
+                    type="button"
+                >Stop</button></div></td>
+            </tr>
+
+        </table>
+        <script type="text/javascript" src="/static/script.js"></script>
+    </body>
+</html>
