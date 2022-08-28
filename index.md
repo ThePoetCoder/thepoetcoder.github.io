@@ -13,6 +13,7 @@
 
 ## Profiles
 * [LinkedIn](https://www.linkedin.com/in/-eric-smith)
+* [GitHub](https://github.com/ThePoetCoder/)
 * [Stack Overflow](https://stackoverflow.com/users/9885313/thepoetcoder)
 * [Reddit](https://www.reddit.com/user/thepoetcoder/)
 
