@@ -7,9 +7,14 @@
 
 ## Writings
 * [Python for VBA Devs](https://github.com/ThePoetCoder/Python-for-VBA-Devs) - A Rosetta Stone for VBA developers to get into Python
-* Python in Office - Some posts I've written for a Python-focused blog:
+* Python in Office - Articles I've written for a Python-focused blog:
     - [Object-Oriented Programming in Python](https://pythoninoffice.com/object-oriented-programming-in-python/)
     - [How To Use Python Visual Inside PowerBI](https://pythoninoffice.com/how-to-use-python-visual-inside-powerbi/)
 
-# Contact Me
+## Profiles
+* [LinkedIn](https://www.linkedin.com/in/-eric-smith)
+* [Stack Overflow](https://stackoverflow.com/users/9885313/thepoetcoder)
+* [Reddit](https://www.reddit.com/user/thepoetcoder/)
+
+## Contact Me
 [ThePoetCoder@gmail.com](mailto:thepoetcoder@gmail.com)
