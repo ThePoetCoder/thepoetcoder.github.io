@@ -1,3 +1,7 @@
+---
+layout: default:
+title: Base Basics
+---
 # Base Basics
 
 In modern society we most often refer to numbers in base 10, also known as [the decimal numeral system]([https://en.m.wikipedia.org/wiki/Decimal](https://en.m.wikipedia.org/wiki/Decimal)), but 10 is far from the only useful base, especially when it comes to computers. You may have heard that the numbers computers operate on are all 0s and 1s and may even know words like “bytes”, “binary”, and “hex” are involved somehow, but are unsure of when and where to use them and why they are useful. If this sounds like you, then read on.
