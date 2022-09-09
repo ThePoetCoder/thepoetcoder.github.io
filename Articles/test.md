@@ -1,3 +1,8 @@
+---
+layout: default
+title: Testing 123
+---
+
 # Heading 1
 
 ## Heading 2
