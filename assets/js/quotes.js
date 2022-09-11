@@ -18,9 +18,9 @@ var poetry = [
         
         '"In this short life That only lasts an hour How much — how little — is thin our power?"  -Dickinson',
         
-        '"You\'re thinking about this too much. Slow down. Nothing bad will happen."  -Prufer'
+        '"You\'re thinking about this too much. Slow down. Nothing bad will happen."  -Prufer',
         
-        
+        '"Let us go then, you and I, When the evening is spread out against the sky"  -Eliot'
         ];
 
 var line = poetry[Math.floor(Math.random() * poetry.length)];
