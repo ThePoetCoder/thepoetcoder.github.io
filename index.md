@@ -8,7 +8,7 @@ title: The Poet Coder
 * [APL to NumPy](https://github.com/ThePoetCoder/APL-to-NumPy/blob/main/APL%20to%20NumPy.ipynb) - Converting APL primitives into executable NumPy
 * [Hooked](https://thepoetcoder.github.io/Hooked/hooked.html) - A simple webpage that allows you to interact with different parts of a song I recorded
 * [Excel Beginner to Advanced](https://github.com/ThePoetCoder/Excel-Beginner-To-Advanced) - A trio of workbooks to teach Excel concepts by example
-* [Redbox SQL](https://github.com/ThePoetCoder/Redbox-Sql) - A collection of SQL scripts written in graduate school for company like Redbox 
+* [Redbox SQL](https://github.com/ThePoetCoder/Redbox-Sql) - A collection of SQL scripts written in graduate school for an example company akin to Redbox 
 
 ## Writings
 * [Python for VBA Devs](https://github.com/ThePoetCoder/Python-for-VBA-Devs) - A Rosetta Stone for VBA developers to get into Python
