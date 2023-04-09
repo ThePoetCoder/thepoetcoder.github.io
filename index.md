@@ -7,6 +7,7 @@ title: The Poet Coder
 * [safexl](https://github.com/ThePoetCoder/safexl) - A pip-installable open-source Python package
 * [APL to NumPy](https://github.com/ThePoetCoder/APL-to-NumPy/blob/main/APL%20to%20NumPy.ipynb) - Converting APL primitives into executable NumPy
 * [Hooked](https://thepoetcoder.github.io/Hooked/hooked.html) - A simple webpage that allows you to interact with different parts of a song I recorded
+* [Dashboard Example](https://github.com/ThePoetCoder/MetabaseDashboardExample) - An example dashboard I made with open-source software Metabase and the SQL used to create it
 * [Excel Beginner to Advanced](https://github.com/ThePoetCoder/Excel-Beginner-To-Advanced) - A trio of workbooks to teach Excel concepts by example
 * [Redbox SQL](https://github.com/ThePoetCoder/Redbox-Sql) - A collection of SQL scripts written in graduate school for an example company akin to Redbox 
 
