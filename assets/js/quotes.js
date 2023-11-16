@@ -71,3 +71,4 @@ switch (random_line) {
 
 quote_element.innerHTML = quote;
 quote_link.setAttribute('href', link);
+quote_link.setAttribute('target', '_blank');
