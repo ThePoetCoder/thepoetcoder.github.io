@@ -12,6 +12,7 @@ title: The Poet Coder
 * [Redbox SQL](https://github.com/ThePoetCoder/Redbox-Sql) - A collection of SQL scripts written in graduate school for an example company akin to Redbox 
 
 ## Writings
+* [Essence & Expression](https://github.com/ThePoetCoder/EssenceAndExpression/blob/main/Essence%20and%20Expression.ipynb) - A Journey Through the Infinite Possibilities Encoded in Files
 * [Python for VBA Devs](https://github.com/ThePoetCoder/Python-for-VBA-Devs) - A Rosetta Stone for VBA developers to get into Python
 * Medium
   * [Base Basics in Python](https://medium.com/@thepoetcoder/base-basics-in-python-809e5200b570)
