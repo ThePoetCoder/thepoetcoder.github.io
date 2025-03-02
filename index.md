@@ -9,7 +9,6 @@ title: The Poet Coder
 * [Hooked](https://thepoetcoder.github.io/Hooked/hooked.html) - A simple webpage that allows you to interact with different parts of a song I recorded
 * [Dashboard Example](https://github.com/ThePoetCoder/MetabaseDashboardExample) - An example dashboard I made with open-source software Metabase and the SQL used to create it
 * [Excel Beginner to Advanced](https://github.com/ThePoetCoder/Excel-Beginner-To-Advanced) - A trio of workbooks to teach Excel concepts by example
-* [Redbox SQL](https://github.com/ThePoetCoder/Redbox-Sql) - A collection of SQL scripts written in graduate school for an example company akin to Redbox 
 
 ## Writings
 * [Essence & Expression](https://github.com/ThePoetCoder/EssenceAndExpression/blob/main/Essence%20and%20Expression.ipynb) - A Journey Through the Infinite Possibilities Encoded in Files
