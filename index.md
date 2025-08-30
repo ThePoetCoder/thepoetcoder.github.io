@@ -4,6 +4,7 @@ title: The Poet Coder
 ---
 
 ## Projects
+* [On It, Boss!](https://github.com/ThePoetCoder/On_It_Boss) - Get ChatGPT to transform Excel data for you!
 * [safexl](https://github.com/ThePoetCoder/safexl) - A pip-installable open-source Python package
 * [APL to NumPy](https://github.com/ThePoetCoder/APL-to-NumPy/blob/main/APL%20to%20NumPy.ipynb) - Converting APL primitives into executable NumPy
 * [Hooked](https://thepoetcoder.github.io/Hooked/hooked.html) - A simple webpage that allows you to interact with different parts of a song I recorded
