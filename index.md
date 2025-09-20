@@ -20,3 +20,6 @@ title: The Poet Coder
   * [Python Closures](https://pythoninoffice.com/python-closures/)
   * [Object-Oriented Programming in Python](https://pythoninoffice.com/object-oriented-programming-in-python/)
   * [How To Use Python Visual Inside PowerBI](https://pythoninoffice.com/how-to-use-python-visual-inside-powerbi/)
+
+## Talks
+* [Essence & Expression](https://www.youtube.com/watch?v=_Om5u3jGupU) - Presentation given @ PyHou on 9/16/2025
