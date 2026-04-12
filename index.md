@@ -4,7 +4,6 @@ title: The Poet Coder
 ---
 
 ## Projects
-* [ODD](https://github.com/ThePoetCoder/ODD) - Organization Driven Development; an Executable Metaphor
 * [Deep Fried Games](https://www.deepfriedgames.net/) - Vibe coding a website with my kids. All the simple games you know and love, but they've been seriously deep fried and are barely recognizable.
 * [On It, Boss!](https://github.com/ThePoetCoder/On-It-Boss) - Get ChatGPT to transform Excel data for you!
 * [safexl](https://github.com/ThePoetCoder/safexl) - A pip-installable open-source Python package
